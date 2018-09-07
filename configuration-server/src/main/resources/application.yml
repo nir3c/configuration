@@ -12,5 +12,5 @@ spring:
     config:
       server:
         git:
-          uri: uri: ${URI_PATH:https://github.com/nir3c/configuration.git}
+          uri: ${URI_PATH:https://github.com/nir3c/configuration.git}
           search-paths: ${SEARCH_PATH:configuration-repository/config}
